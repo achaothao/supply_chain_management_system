@@ -1,3 +1,7 @@
+// Name: A Chao Thao
+// Project: Decentralized Tracking DApp
+// Date: 11/18/2024
+
 import React, { useState, useEffect } from "react";
 import Web3Modal from "web3modal";
 import { ethers } from "ethers";
