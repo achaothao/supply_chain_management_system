@@ -1,3 +1,7 @@
+// Name: A Chao Thao
+// Project: Decentralized Tracking DApp
+// Date: 11/18/2024
+
 import React, { useState, useEffect, useContext } from "react";
 
 //INTERNAL IMPORT
