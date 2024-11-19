@@ -1,3 +1,7 @@
+// Name: A Chao Thao
+// Project: Decentralized Tracking DApp
+// Date: 11/18/2024
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
